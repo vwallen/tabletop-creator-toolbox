@@ -18,6 +18,8 @@ A list of resources, tools, and assets for tabletop role-playing and board game 
 
 ## Art & Photography
 
+- [Library of Congress "Free to Use and Reuse Sets"](https://www.loc.gov/free-to-use/) is out of copyright work, grouped into 73 themes. No search capability. Perhaps about 1,400 images. <cite>([United States Library of Congress](https://www.loc.gov/))</cite>
+
 ## Software
 
 ## Licenses
@@ -26,8 +28,6 @@ A list of resources, tools, and assets for tabletop role-playing and board game 
 
 # TO SORT
 
-- [Library of Congress "Free to Use and Reuse Sets"](https://www.loc.gov/free-to-use/) is out of copyright work, grouped by themes. No search capability.
-<cite>([United States Library of Congress](https://www.loc.gov/))</cite>
 
 - [Pixabay](https://pixabay.com/) is a searchable collection of images under a liberal license that includes commercial use.  <cite>([Pixabay](https://pixabay.com/))</cite>
 
