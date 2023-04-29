@@ -5,6 +5,13 @@ A list of resources, tools, and assets for tabletop role-playing and board game 
 
 ### Graphic Design & Layout
 
+- Explorer's Design [Design Guides](https://www.explorersdesign.com/blogs/design-guide) are excellent resources for laying out a game text. ([Explorers Design](https://www.explorersdesign.com/))
+  - [Into the Odd | How to Layout Your RPG](https://www.explorersdesign.com/blogs/design-guide/grid-system-exhibits-how-to-layout-your-rpg)
+  - [Grid System Basics | How to Layout Your RPG](https://www.explorersdesign.com/blogs/design-guide/the-grid-system-how-to-layout-your-rpg)
+  - [Design Lore | How to Become a Designer](https://www.explorersdesign.com/blogs/design-guide/design-lore-how-to-become-a-designer)
+  - [Gestal Laws | How to Become a Designer](https://www.explorersdesign.com/blogs/design-guide/gestalt-laws)
+  - [Design Principles | How to Become a Designer](https://www.explorersdesign.com/blogs/design-guide/design-principles)
+
 - [Coding Character Sheets](https://www.nothingventuredgames.com/coding/) is a collection of resources to use web technologies in presenting and distributing games. 
   <cite>([Paul Stefko](https://dice.camp/@PaulStefko))</cite>
 - [How to Layout Indie Zines and Tabletop RPGs -- Beginner's Guide](https://acoupleofdrakes.com/how-to-layout/) an introduction to the basics of game layout using Adobe InDesign. 
@@ -44,6 +51,11 @@ A list of resources, tools, and assets for tabletop role-playing and board game 
 ## Licenses
 
 ## System Reference Documents
+
+## Other Lists
+
+- [Felix's List](https://adplist.notion.site/Felix-s-Designer-Handbook-3511ac03434c49a19f8c4d27aa3c3630) is another list of design tools, mostly for web applications, but has many useful links to tools, fonts, art, etc. ([Felix Lee](https://twitter.com/felixleezd))
+- Explorers Design also [has a list just like this one](https://www.explorersdesign.com/pages/resources) only, ahem, better designed. ([Explorers Design](https://www.explorersdesign.com/))
 
 
 ---
